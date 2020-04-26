@@ -8,3 +8,5 @@
 .rw-r--r-- 1,4k lrlna 26 avr 13:14 wasm_string.js
 .rw-r--r--  891 lrlna 26 avr 13:14 wasm_string_bg.wasm
 ```
+- more on
+  [JsValues](https://docs.rs/wasm-bindgen/0.2.60/wasm_bindgen/struct.JsValue.html)
